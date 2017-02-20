@@ -1,0 +1,3 @@
+# Goal
+
+Javascript refactoring patterns.
